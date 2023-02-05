@@ -1,0 +1,27 @@
+#Increment, #Decrement, #Reset{
+  Padding:10px 15px;
+  Font-Size:18px;
+ background-color: rgb(122, 93, 50);
+   Color:#F1f1f1;
+   Border:none;
+   Margin:5px;
+ }
+ #myinput{
+  
+  border: 2px;
+ 
+  color: black;
+ }
+ #Main{
+   Margin : 0 Auto;
+   Text-Align:center;
+   Padding:5% 10%;
+ }
+ #DisplayCounter{
+   Font-Size:100px;
+   Font-Family: Impact;
+   
+ }
+ #Increment:hover, #Decrement:hover, #Reset:hover{
+  background-color: rgb(51, 51, 73);
+ }
